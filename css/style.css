@@ -67,7 +67,7 @@
 }
 
 .btn.btn-primary {
-    background: var(--bs-secondary) !important;
+    background: #d32026!important;
     color: var(--bs-white) !important;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
