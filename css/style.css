@@ -67,7 +67,7 @@
 }
 
 .btn.btn-primary {
-    background: #d32026!important;
+    background: #003a66!important;
     color: var(--bs-white) !important;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
@@ -75,7 +75,7 @@
 }
 
 .btn.btn.btn-primary:hover {
-    background: var(--bs-primary) !important;
+    background: #d32026 !important;
     color: var(--bs-secondary);
     border: 1px solid var(--bs-secondary);
 }
