@@ -1,0 +1,35 @@
+.jinrErweima{
+    position:relative;
+    width: 100%;
+    background-color: rgba(38,38,38,0.2);
+    z-index: 2;
+    padding-bottom: 5px;
+}
+
+.erweima{
+    width: 85%;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+.sp_l{
+    float: left;
+    text-align: right;
+    width: 10%;
+}
+.sp_r{
+    float: left;
+    width: 90%;
+    text-align: left;
+
+}
+.img_bjt{
+    position: absolute;
+    top: 50%;
+    right: 50px;
+    width: 15px;
+    height: 15px;
+    line-height: 20px;
+    margin-top: -8px;
+}
