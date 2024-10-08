@@ -897,7 +897,7 @@
 }
 
 .footer .footer-item a:hover {
-    letter-spacing: 2px;
+    letter-spacing: 0px;
     color: var(--bs-secondary);
 }
 

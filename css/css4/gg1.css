@@ -1,0 +1,35 @@
+/*在线客服*/
+.CustomService {display: block;}
+.CustomService .CusSer_con {width: 70px;position: fixed;z-index: 99;right: 0px;bottom: 10%;}
+.CustomService .CusSer_con .zxkfHide {display: block;width: 25px;height: 39px;background: url(../../图片/fixed-close.png) no-repeat center;position: absolute;left: 23px;top: -39px;cursor: pointer;}
+.CustomService .CusSer_con ul {display: block;}
+.CustomService .CusSer_con ul li {margin-bottom: 1px; text-align: center;font-size: 14px;color: #fff;cursor: pointer;position: relative;width: 70px;height: 90px;background: #212f4c;}
+.CustomService .CusSer_con ul li:first-child {border-top: none;}
+.CustomService .CusSer_con ul li a {color: #fff;}
+.CustomService .CusSer_con p.p1 {display: block;text-align: center;padding:22px 0 10px 0;}
+.CustomService .CusSer_con p.p1 img {display: block;margin: 0 auto;}
+.CustomService .CusSer_con ul li.li1 .li_code {display: none;position: absolute;left: -165px;top: 20px;width: 159px;height:60px;background: #212f4c;box-sizing: content-box;}
+.CustomService .CusSer_con ul li.li1 .li_code p {width:145px;height: 45px;text-align: center;line-height: 30px;color: #fff;font-weight: bold;padding-right: 14px;font-size: 14px;}
+.CustomService .CusSer_con ul li.li1 .li_code p img {display: block;width: 77px;height:77px;box-sizing: content-box;}
+.CustomService .CusSer_con ul li.li3 .li_code {display: none;position: absolute;left: -115px;top: -7px;background: #212f4c;box-sizing: content-box;}
+.CustomService .CusSer_con ul li.li3 .li_code p {width: 90px;height: 90px;padding: 10px 10px 30px 10px;text-align: center;color: #fff;box-sizing: content-box;}
+.CustomService .CusSer_con ul li.li3 .li_code p i {display: block;margin-bottom: 6px;box-sizing: content-box;}
+.CustomService .CusSer_con ul li.li3 .li_code p img {display: block;width: 90px;height: 90px;box-sizing: content-box;}
+.CustomService .CusSer_con ul li.li4 {}
+.CustomService .CusSer_con ul li.li4:hover {background: #212f4c;}
+.CustomService .CusSer_con ul li:hover .li_code {display: block;}
+.CustomService .CusSer_con .zxkfShow {display: none;width: 70px;height: 76px;background: #212f4c;color: #fff;text-align: center;}
+.CustomService .CusSer_con .zxkfShow span {display: block;padding-top: 46px;background: url(../images/zxkfimg01.png) no-repeat center 13px;box-sizing: content-box;}
+
+
+
+
+
+
+
+ul li {
+    list-style-type: none;
+}
+
+
+
